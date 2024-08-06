@@ -1,6 +1,6 @@
 # PeepoMC
-YOUR Minecraft Server!
-Version: `1.20.6 Bedrock & Java`
+YOUR Minecraft Server!<br>
+Version: `1.20.6 Bedrock & Java`<br>
 
 no contributors yet.
 <a href="https://github.com/AxillityWasGay/PeepoMC/graphs/contributors">
